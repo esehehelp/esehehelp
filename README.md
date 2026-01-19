@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @esehehelp
-- 👀 I’m interested in infrastructure
-- 🌱 I’m currently learning javascripts
 - 📫 How to reach me esehehelp@esehehelp.work
 
 <!---
